@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DT263 - Agile Transition to SAP S/4HANA with SAP Solution Manager and Focused Build
 
 ## Description
 
