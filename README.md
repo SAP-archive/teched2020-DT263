@@ -2,15 +2,15 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the presentation and exercises for the SAP TechEd 2020 session DT263 - Agile Transition to SAP S/4HANA with SAP Solution Manager and Focused Build. 
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to how to efficiently manage your S/4HANA transition projects. Specific focus in this session lies on the usage of the SAP Readiness Check and automatically take over
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+There are no requirements other than sufficient internet access to execute the exercises.
 
 ## Exercises
 
