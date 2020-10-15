@@ -14,7 +14,7 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Presentation
 
-Open the overview presentation [here](exercises/myPDFDoc.pdf).
+Open the overview presentation [here](exercises/Session 1093 Presentation - Agile Transition to SAP S4HANA with SAP Solution Manager and Focused Build.pptx).
 
 ## Exercises
 
