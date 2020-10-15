@@ -14,11 +14,11 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Presentation
 
-
+Open the overview presentation [here](exercises/myPDFDoc.pdf).
 
 ## Exercises
 
-Link to the PDF document stored in your github repository
+(Links to the PDF documents stored in the github repository will be available later)
 
 Start the exercise 1 [here](exercises/myPDFDoc.pdf).
     
