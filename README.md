@@ -24,9 +24,6 @@ Start the exercise 1 [here](exercises/myPDFDoc.pdf).
     
 Start the exercise 2 [here](exercises/myPDFDoc.pdf).
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
