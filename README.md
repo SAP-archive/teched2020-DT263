@@ -8,13 +8,12 @@ This repository contains the presentation and exercises for the SAP TechEd 2020 
 
 This session introduces attendees in how to efficiently manage your S/4HANA transition projects with Focused Build. Specific focus in this session lies on the new integration of the SAP Readiness Check into Focused Build. That means a semi-automated take over of Readiness Check Activies to Focused Build Projects, Requirements and Work Packages. At the end there will be a overview and demo of the new Focused Build reporting capabilites.
 
+Open the overview presentation [here](exercises/Session 1093 Presentation - Agile Transition to SAP S4HANA with SAP Solution Manager and Focused Build.pptx).
+
 ## Requirements
 
 There are no requirements other than sufficient internet access to execute the exercises.
 
-## Presentation
-
-Open the overview presentation [here](exercises/Session 1093 Presentation - Agile Transition to SAP S4HANA with SAP Solution Manager and Focused Build.pptx).
 
 ## Exercises
 
