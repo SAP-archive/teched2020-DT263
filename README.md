@@ -10,6 +10,7 @@ This session introduces attendees in how to efficiently manage your S/4HANA tran
 
 Open the overview presentation [here](exercises/Session 1093 Presentation - Agile Transition to SAP S4HANA with SAP Solution Manager and Focused Build.pptx).
 
+
 ## Requirements
 
 There are no requirements other than sufficient internet access to execute the exercises.
