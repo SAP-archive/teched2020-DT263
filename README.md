@@ -12,13 +12,17 @@ This session introduces attendees in how to efficiently manage your S/4HANA tran
 
 There are no requirements other than sufficient internet access to execute the exercises.
 
+## Presentation
+
+
+
 ## Exercises
 
-**OR** Link to the PDF document stored in your github repo for example...
+Link to the PDF document stored in your github repository
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Start the exercise 1 [here](exercises/myPDFDoc.pdf).
     
-
+Start the exercise 2 [here](exercises/myPDFDoc.pdf).
 
 **IMPORTANT**
 
