@@ -27,8 +27,10 @@ Start the exercise 2 [here](exercises/myPDFDoc.pdf).
 
 
 
-### For Users doing the on demand exercises (after the live workshops) shall use the following login:
+### Users doing the on demand exercises (after the live workshops) shall use the following login:
+
 User:       tbd
+
 Password:   tbd
 
 
