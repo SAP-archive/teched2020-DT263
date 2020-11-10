@@ -18,11 +18,18 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Exercises
 
-(Links to the PDF documents stored in the github repository will be available later)
+Links to workshop system:
+System users will be communicated beforehand the exercises
 
 Start the exercise 1 [here](exercises/myPDFDoc.pdf).
     
 Start the exercise 2 [here](exercises/myPDFDoc.pdf).
+
+
+
+### For Users doing the on demand exercises (after the live workshops) shall use the following login:
+User:       tbd
+Password:   tbd
 
 
 ## How to obtain support
