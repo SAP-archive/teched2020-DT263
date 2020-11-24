@@ -29,11 +29,11 @@ Start the exercise 2 [here](exercises/myPDFDoc.pdf).
 
 ### Users doing the on demand exercises (after the live workshops) shall use the following login:
 
-User:       tbd (will be published after the live workshops)
+User:       will be published after the live workshops
 
-Password:   tbd (will be published after the live workshops)
+Password:   will be published after the live workshops
 
-Start the on demand exercise preparation (will be published after the live workshops).
+Start the on demand exercise preparation - pdf will be published after the live workshops
 
 Proceed with exercise 1 and 2 in the section above.
 
