@@ -33,6 +33,10 @@ User:       tbd
 
 Password:   tbd
 
+Start the on demand exercise preparation (will be published after the live workshops).
+
+Proceed with exercise 1 and 2 in the section above.
+
 
 ## How to obtain support
 
