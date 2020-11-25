@@ -18,8 +18,9 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Exercises
 
-Links to workshop system: https://teched-a4h.ddnss.org:44310/sap/bc/ui2/flp#Shell-home
-System users will be communicated beforehand the exercises
+Links to workshop system: https://teched-a4h.ddnss.org:44310/sap/bc/ui2/flp#Shell-home.
+
+System users will be communicated beforehand the exercises.
 
 Start the exercise 01 [here](exercises/DT263Exercise01.pdf).
     
@@ -29,13 +30,13 @@ Start the exercise 02 [here](exercises/DT263Exercise02.pdf).
 
 ### Users doing the on demand exercises (after the live workshops) shall use the following login:
 
-User:       will be published after the live workshops
+User:       will be published after the live workshops.
 
-Password:   will be published after the live workshops
+Password:   will be published after the live workshops.
 
 On demand users download exercise file 00 [here](exercises/DT263Exercise00.pdf). 
 
-Start the on demand exercise preparation - pdf will be published after the live workshops
+Start the on demand exercise preparation - pdf will be published after the live workshops.
 
 Proceed with exercise 1 and 2 in the section above.
 
