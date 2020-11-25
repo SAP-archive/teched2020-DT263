@@ -33,7 +33,7 @@ User:       will be published after the live workshops
 
 Password:   will be published after the live workshops
 
-On demand users download exercize file [here](exercises/myPDFDoc.pdf). 
+On demand users download exercise file [here](exercises/myPDFDoc.pdf). 
 
 Start the on demand exercise preparation - pdf will be published after the live workshops
 
