@@ -1,5 +1,7 @@
 # DT263 - Agile Transition to SAP S/4HANA with SAP Solution Manager and Focused Build
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DT263)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DT263)
+
 ## Description
 
 This repository contains the presentation and exercises for the SAP TechEd 2020 session DT263 - Agile Transition to SAP S/4HANA with SAP Solution Manager and Focused Build. 
